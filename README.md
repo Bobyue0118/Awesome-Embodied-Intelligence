@@ -1,4 +1,4 @@
-# Awesome Embodied Intelligence: A Synergy of Morphology Action Perception and Learning
+# Awesome Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning
 
 This repo contains all the citations in Section 3 *Architecture of Embodied Intelligence* of [Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning](https://dl.acm.org/doi/pdf/10.1145/3717059).
 
