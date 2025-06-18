@@ -3,7 +3,7 @@
 This repo contains all the citations in Section 3 *Architecture of Embodied Intelligence* of [Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning](https://dl.acm.org/doi/pdf/10.1145/3717059).
 
 
-# 3.1 Action Generation Based on Learning (L → A)
+### 3.1 Action Generation Based on Learning (L → A)
 
 - [9] Richard Bellman. 1957. A Markovian decision process. *Journal of Mathematics and Mechanics*, 6(5), 679–684.
 - [196] Christopher J. C. H. Watkins. 1989. Learning from Delayed Rewards. Ph.D. dissertation, Royal Holloway, University of London.
@@ -13,7 +13,7 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [167] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347.
 - [66] Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine. 2018. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor. In *Proceedings of the International Conference on Machine Learning*, 1861–1870.
 
-# 3.2 Action Generation Based on Morphology (M → A)
+### 3.2 Action Generation Based on Morphology (M → A)
 
 - [72] Van Anh Ho, Hongbin Liu, Liyu Wang, Fumiya Iida, and Shinichi Hirai. 2018. Special issue on ‘Morphological computation in soft robotics.’ *Advanced Robotics*, 32(7), 339–339.
 - [138] Kohei Nakajima, Helmut Hauser, Tao Li, and Rolf Pfeifer. 2015. Information processing via physical soft body. *Scientific Reports*, 5(10487).
@@ -28,14 +28,14 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [59] Keyan Ghazi-Zahedi, Daniel F. B. Haeufle, Guido Montúfar, Syn Schmitt, and Nihat Ay. 2016. Evaluating morphological computation in muscle and DC-motor driven models of hopping movements. *Frontiers in Robotics and AI*, 3(42).
 - [92] Peter Battaglia, et al. 2018. Graph networks as learnable physics engines for inference and control. In *ICML*, 4470–4479.
 
-# 3.3 Morphological Control Based on Action (A → M)
+### 3.3 Morphological Control Based on Action (A → M)
 
 - [31] Antonio Bicchi and Vijay Kumar. 2000. Robotic grasping and contact: A review. In *ICRA’00*, Vol. 1, 348–353.
 - [192] Tingwu Wang, Renjie Liao, Jimmy Ba, and Sanja Fidler. 2018. NerveNet: Learning structured policy with graph neural networks. In *ICLR*.
 - [185] A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gómez, L. Kaiser, and I. Polosukhin. 2017. Attention is all you need. In *NeurIPS*, 6000–6010.
 - [69] Donald Hejna, Lerrel Pinto, and Pieter Abbeel. 2020. Hierarchically decoupled imitation for morphological transfer. In *ICML*, 4159–4171.
 
-# 3.4 Perception-Driven Morphology Transformation (P → M)
+### 3.4 Perception-Driven Morphology Transformation (P → M)
 
 - [171] Vitaly Kurin, Maximilian Igl, Tim Rocktäschel, Wendelin Boehmer, and Shimon Whiteson. 2020. My body is a cage: The role of morphology in graph-based incompatible control. arXiv preprint arXiv:2010.01856.
 - [140] Tønnes F. Nygaard, Charles P. Martin, Jim Torresen, and Kyrre Glette. 2019. Self-modifying morphology experiments with DyRET: Dynamic robot for embodied testing. In *ICRA’19*, 9446–9452.
@@ -43,7 +43,7 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [94] Sam Kriegman, Amir Mohammadi Nasab, Dylan Shah, Hannah Steele, Gabrielle Branin, Michael Levin, Josh Bongard, and Rebecca Kramer-Bottiglio. 2020. Scalable sim-to-real transfer of soft robot designs. In *RoboSoft’20*, 359–366.
 - [202] Jian Wu, Shi-Yang Tang, Tao Fang, Weihua Li, Xiangpeng Li, and Shiwu Zhang. 2018. A wheeled robot driven by a liquid-metal droplet. *Advanced Materials*, 30(51), 1805039.
 
-# 3.5 Learning-Driven Morphology Optimization (L → M)
+### 3.5 Learning-Driven Morphology Optimization (L → M)
 
 - [135] Andrew L. Nelson, Gregory J. Barlow, and Lefteris Doitsidis. 2009. Fitness functions in evolutionary robotics: A survey and analysis. *Robotics and Autonomous Systems*, 57(4), 345–352.
 - [151] Rolf Pfeifer and Josh Bongard. 2006. How the Body Shapes the Way We Think: A New View of Intelligence. MIT Press.
@@ -56,7 +56,7 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [124] Craig Mautner and Richard K. Belew. 2000. Evolving robot morphology and control. *Artificial Life and Robotics*, 4, 130–136.
 - [174] Charles Schaff, David Yunis, Ayan Chakrabarti, and Matthew R. Walter. 2019. Jointly learning to construct and control agents using deep reinforcement learning. In *ICRA’19*, 9798–9805.
 
-# 3.6 Perception-Driven Action Generation (P → A)
+### 3.6 Perception-Driven Action Generation (P → A)
 
 - [13] Antonio Bicchi and Vijay Kumar. 2000. Robotic grasping and contact: A review. In *ICRA’00*, Vol. 1, 348–353.
 - [136] Rhys Newbury, Morris Gu, Lachlan Chumbley, Arsalan Mousavian, Clemens Eppner, Jürgen Leitner, Jeannette Bohg, Antonio Morales, Tamim Asfour, Danica Kragic, et al. 2023. Deep learning approaches to grasp synthesis: A review. *IEEE Transactions on Robotics*, 39(5), 3994–4015.
@@ -68,7 +68,7 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [204] Wansen Wu, Tao Chang, Xinmeng Li, Quanjun Yin, and Yue Hu. 2024. Vision-language navigation: A survey and taxonomy. *Neural Computing and Applications*, 36(7), 3291–3316.
 - [205] Xuesu Xiao, Bo Liu, Garrett Warnell, and Peter Stone. 2022. Motion planning and control for mobile robot navigation using machine learning: A survey. *Autonomous Robots*, 46(5), 569–597.
 
-# 3.7 Action-Driven Perception Improvement (A → P)
+### 3.7 Action-Driven Perception Improvement (A → P)
 
 - [7] Ruzena Bajcsy. 1988. Active perception. *Proceedings of the IEEE*, 76(8), 966–1005.
 - [2] John Aloimonos, Isaac Weiss, and Amit Bandyopadhyay. 1988. Active vision. *International Journal of Computer Vision*, 1, 333–356.
@@ -80,7 +80,7 @@ This repo contains all the citations in Section 3 *Architecture of Embodied Inte
 - [222] Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, and Yizhou Wang. 2019. AD-VAT+: An asymmetric dueling mechanism for learning and understanding visual active tracking. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 43(5), 1467–1482.
 - [186] Tiago Veiga and Jennifer Renoux. 2023. From reactive to active sensing: A survey on information gathering in decision-theoretic planning. *ACM Computing Surveys*, 55(13s), Article 280.
 
-# 3.8 Action-Driven Embodied Learning (A → L)
+### 3.8 Action-Driven Embodied Learning (A → L)
 
 - [28] Abigail Xinghang Li, Di Guo, Huaping Liu, and Fuchun Sun. 2022. Embodied semantic scene graph generation. In *CoRL*, 1585–1594.
 - [26] Xinghang Li, Di Guo, Huaping Liu, and Fuchun Sun. 2022. Embodied semantic scene graph generation. In *CoRL*, 1585–1594.
