@@ -2,6 +2,32 @@
 
 This repo contains all the citations in Section 3 *Architecture of Embodied Intelligence* of [Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning](https://dl.acm.org/doi/pdf/10.1145/3717059).
 
+## Table of Contents
+
+- [3.1 Action Generation Based on Learning (L → A)](#31-action-generation-based-on-learning-l--a)
+- [3.2 Action Generation Based on Morphology (M → A)](#32-action-generation-based-on-morphology-m--a)
+  - [3.2.1 Typical Examples](#321-typical-examples)
+  - [3.2.2 Physical Reservoir Computing for Morphological Computation](#322-physical-reservoir-computing-for-morphological-computation)
+  - [3.2.3 Energy-Viewpoint and Information-Theory Methods](#323-energy-viewpoint-and-information-theory-methods)
+- [3.3 Morphological Control Based on Action (A → M)](#33-morphological-control-based-on-action-a--m)
+  - [3.3.1 Graph Neural Network for Morphology Control](#331-graph-neural-network-for-morphology-control)
+  - [3.3.2 Transformer-Based Morphology Control](#332-transformer-based-morphology-control)
+  - [3.3.3 Imitation and Transfer Methods](#333-imitation-and-transfer-methods)
+  - [3.3.4 Summary Citations](#334-summary-citations)
+- [3.4 Perception-Driven Morphology Transformation (P → M)](#34-perception-driven-morphology-transformation-p--m)
+- [3.5 Learning-Driven Morphology Optimization (L → M)](#35-learning-driven-morphology-optimization-l--m)
+  - [3.5.1 Evolutionary Reinforcement Learning Methods](#351-evolutionary-reinforcement-learning-methods)
+  - [3.5.2 Direct Reinforcement Learning Method](#352-direct-reinforcement-learning-method)
+  - [3.5.3 Physical Implementation](#353-physical-implementation)
+  - [3.5.4 Summary Citations](#354-summary-citations)
+- [3.6 Perception-Driven Action Generation (P → A)](#36-perception-driven-action-generation-p--a)
+  - [3.6.1 Traditional Visual Manipulation and Navigation](#361-traditional-visual-manipulation-and-navigation)
+  - [3.6.2 Multi-Modal Perception-Driven Navigation and Manipulation](#362-multi-modal-perception-driven-navigation-and-manipulation)
+  - [3.6.3 Language-Conditioned Navigation and Manipulation](#363-language-conditioned-navigation-and-manipulation)
+- [3.7 Action-Driven Perception Improvement (A → P)](#37-action-driven-perception-improvement-a--p)
+- [3.8 Action-Driven Embodied Learning (A → L)](#38-action-driven-embodied-learning-a--l)
+
+
 ### 3.1 Action Generation Based on Learning (L → A)
 
 - [9] Richard Bellman. 1957. A Markovian decision process. *Journal of Mathematics and Mechanics*, 6(5), 679–684.  
