@@ -1,6 +1,31 @@
 # Awesome Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning
 
+
 This repo contains all the citations in **Section 3 Architecture of Embodied Intelligence** of [Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning](https://dl.acm.org/doi/pdf/10.1145/3717059).
+
+
+**Disclaimer:** This repository is **not** the official repository created by the authors of the published paper. It is provided for informational purposes only, listing all references from Section 3. Readers should cite the original paper as follows:
+
+```bibtex
+@article{10.1145/3717059,
+  author = {Liu, Huaping and Guo, Di and Cangelosi, Angelo},
+  title = {Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning},
+  year = {2025},
+  issue_date = {July 2025},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {57},
+  number = {7},
+  issn = {0360-0300},
+  url = {https://doi.org/10.1145/3717059},
+  doi = {10.1145/3717059},
+  journal = {ACM Comput. Surv.},
+  month = mar,
+  articleno = {186},
+  numpages = {36}
+}
+```
+
 
 ## Table of Contents
 
@@ -136,25 +161,3 @@ This repo contains all the citations in **Section 3 Architecture of Embodied Int
 - [21] Julian Whitman, Matthew Travers, and Howie Choset. 2023. Learning modular robot control policies. *IEEE Transactions on Robotics*, 39(5), 4095–4113.  
 - [154] Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, and Abhinav Gupta. 2016. The curious robot: Learning visual representations via physical interactions. In *ECCV*, 3–18.  
 - [207] Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, and Shuran Song. 2019. DensePhysNet: Learning dense physical object representations via multi-step dynamic interactions. arXiv preprint arXiv:1906.03853.  
-
-
-**Disclaimer:** This repository is **not** the official repository created by the authors of the published paper. It is provided for informational purposes only, listing all references from Section 3. Readers should cite the original paper as follows:
-
-```bibtex
-@article{10.1145/3717059,
-  author = {Liu, Huaping and Guo, Di and Cangelosi, Angelo},
-  title = {Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning},
-  year = {2025},
-  issue_date = {July 2025},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  volume = {57},
-  number = {7},
-  issn = {0360-0300},
-  url = {https://doi.org/10.1145/3717059},
-  doi = {10.1145/3717059},
-  journal = {ACM Comput. Surv.},
-  month = mar,
-  articleno = {186},
-  numpages = {36}
-}
